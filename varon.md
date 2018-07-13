@@ -4,4 +4,7 @@ Varon TJ [Desde la primera visita hasta discursante de asamblea]
 - Revisita
 - 2da Revisita
 	- Asistio a la reunion
+	- Da comentarios
+	- Se inscribio en la escula
+	
 
