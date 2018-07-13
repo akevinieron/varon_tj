@@ -8,6 +8,7 @@ Varon TJ [Desde la primera visita hasta discursante de asamblea]
 	- Se inscribio en la escuela
 	- Se volvio publicador
 	- Se bautizo
+		- Se fue a Construccion
 	
 		- Trabajar en Betel
 	
